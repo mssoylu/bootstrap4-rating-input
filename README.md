@@ -12,5 +12,5 @@ It's mean is no more inputs without form.
   <div class="rating">4</div>
 ```
 
-Thanks @javiertoledo
+Thanks [@javiertoledo](https://github.com/javiertoledo)
 
